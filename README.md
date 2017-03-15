@@ -8,7 +8,7 @@
 |Blog|[Morning, Noon & Night](http://urumasa.hatenablog.jp)|
 |Twitter|[@urumasa](https://twitter.com/urumasa)|
 |Qiita|[urumasa](http://qiita.com/urumasa)|
-|facebook|(https://www.facebook.com/masaruuruwashi)|
+|facebook|https://www.facebook.com/masaruuruwashi|
 
 ## スキル
 
@@ -34,7 +34,7 @@
 
 ## やったことはないが興味があるもの
 
-- ハードウェアおよびプログラミング言語関係全般。CPU, GPU, アセンブリ, Ruby, Python, LISP, Objective-C, D, OpenCV, OpenCL, OpenGL, DirectX, OpenAL, 他にも沢山。
+- ハードウェアおよびソフトウェア。プログラミング言語関係全般。CPU, GPU, アセンブリ, Ruby, Python, LISP, Objective-C, D, OpenCV, OpenCL, OpenGL, DirectX, OpenAL, 他にも沢山。
 
 ## 登壇歴
 
@@ -46,13 +46,13 @@
 
 ### 同人
 
-- 2010/August コミケ78にサークル初参加。内容はiMac(Late 2006) 20インチモデルのHDD換装や、PlayStation3のHDD換装方法などのレポート。
+- 2010/August コミケ78にサークル初参加。内容はiMac(Late 2006) 20インチモデルのHDD換装や、PlayStation 3のHDD換装方法などの解説レポート。
 
-## 職務経歴
+## 職務経歴 (下に行くほど古い)
 
 ### 2013/November - Now : 株式会社ラフトレイド・エンジニアリング
 
-職務: いわゆる派遣。単なる労働力。ごくまれにプログラマーぽいことを。
+職務: 日本国内で言うところのシステムエンジニア。個人的にはプログラマー志望。
 
 #### 2014/March - 2016/December
 
