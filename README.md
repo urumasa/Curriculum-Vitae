@@ -8,7 +8,7 @@
 |Blog|[Morning, Noon & Night](http://urumasa.hatenablog.jp)|
 |Twitter|[@urumasa](https://twitter.com/urumasa)|
 |Qiita|[urumasa](http://qiita.com/urumasa)|
-|facebook|https://www.facebook.com/masaruuruwashi|
+|facebook|[masaruuruwashi](https://www.facebook.com/masaruuruwashi)|
 
 ## スキル
 
@@ -46,7 +46,7 @@
 
 ### 同人
 
-- 2010/August コミケ78にサークル初参加。内容はiMac(Late 2006) 20インチモデルのHDD換装や、PlayStation 3のHDD換装方法などの解説レポート。
+- 2010/August コミケ78にサークル参加(初)。内容はiMac(Late 2006) 20インチモデルのHDD換装や、PlayStation 3のHDD換装方法などの解説レポート。
 
 ## 職務経歴 (下に行くほど古い)
 
@@ -60,7 +60,7 @@
 
 #### 2013/December - 2014/February
 
-- 株式会社シーアンドエーソリューションにてJR関係の何かをやったような。C/C++言語。
+- 株式会社シーアンドエーソリューションにてJR関係。Visual StudioにてC/C++言語。
 
 ## 現在の会社以前
 
@@ -70,7 +70,7 @@
 
 #### 2008/August - 2009/February
 
-- 鉄道管理システム。日立製作所の大みか工場にてJR関係。PC端末を駅に見立てて通信関係のプログラムを作業。使用したのはLinux 2.4系とC言語。
+- 鉄道管理システム。日立製作所の大みか工場にてJR関係。PC端末を駅に見立てて駅間通信関係のプログラムを作業。使用したのはLinux 2.4系とC言語。
 
 #### 2008/January - 2008/August
 
@@ -78,7 +78,7 @@
 
 #### 2007/April - 2007/December
 
-- エレベータ受発注システム。OS変更に伴う問題点の調査やツール作成、システム構築など。OS変更はWindowsからLinux系だったか、Linux系からWindowsかは忘れた。Oracle Database 9iとかも多少触った。
+- エレベータ受発注システム。OS変更に伴う問題点の調査やVBAによるツール作成、システム構築など。OS変更はWindowsからLinux系だったか、Linux系からWindowsかは忘れた。Oracle Database 9iとか若干触った。
 
 #### 2006/July - 2007/March
 
@@ -86,15 +86,15 @@
 
 #### 2006/Jun
 
-- CANブリッジユニットシステム開発。H8マイコンを使用したプログラム開発。C/C++言語。
+- CANブリッジユニットシステム開発。H8マイコンを使用した油圧制御プログラム開発。RENESASのHigh-performance Embedded Workshop(通称HEW)にてC/C++言語。
 
 #### 2006/May
 
-- 水道管路管理システム。どこかのお役所で使用している水道管マップアプリをWindows向けに改修・不具合修正・機能追加など。C/C++言語。
+- 水道管路管理システム。どこかのお役所で使用している水道管マップアプリをWindows向けに改修・不具合修正・機能追加など。Visual StudioにてC/C++言語。
 
 #### 2006/March - 2006/April
 
-- USBデバイス管理システム開発。独自の暗号化/復号化ライブラリを使用してUSBメモリにデータを書き込む。C/C++言語。
+- USBデバイス管理システム開発。独自の暗号化/復号化ライブラリを使用してUSBメモリにデータを書き込む。Visual StudioにてC/C++言語。
 
 #### 2006/January - 2006/February
 
