@@ -5,36 +5,35 @@
 |key|value|
 |---|-----|
 |Name|雲類鷲 智(URUWASHI Masaru)|
-|Blog|[Morning, Noon & Night](http://urumasa.hatenablog.jp)|
-|Twitter|[@urumasa](https://twitter.com/urumasa)|
 |Qiita|[urumasa](http://qiita.com/urumasa)|
-|facebook|[masaruuruwashi](https://www.facebook.com/masaruuruwashi)|
 
 ## スキル
 
-### 触った事がある言語
+### かじったり、触った事がある言語
 
-- C/C++, Object Pascal(現Delphi言語), C#, VB6, Java, javascript, Perl
+- C/C++, Object Pascal(現Delphi言語), C#, VB, Java, javascript, Perl
 
 - 日本語
   - ネイティブ
 - 英語
-  - 苦手意識は持たないようにしてます。が、読むだけでも大変なので、会話は厳しい。
+  - 苦手意識は持たないようにしてます。が、読むだけでも大変で手一杯。
 
-### フレームワーク
+### ポートフォリオ等
 
-- Framework名
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
+- 初音ミクとAR (2006年か2007年夏頃に制作)
+  - https://www.youtube.com/watch?v=qfOCDevPpvo&list=PLeiHNLCTwN0_ZEocJ-og22kkYiPYK9umO&index=1
 
 ### その他
 
-- 
+- プライベートな時間で個人向けのPCサポート相談等もしてます。主にPCパーツなどのハードウェアと一部のソフトウェアについて。
 
 ## 強み
 
-## やったことはないが興味があるもの
+- 仕事は定時内で終わらせるのが日頃の目標。一日中仕事の事を考えてはいませんが、仕事以外でもコンピュータの事を考えてます。
 
-- ハードウェアおよびソフトウェア。プログラミング言語関係全般。CPU, GPU, アセンブリ, Ruby, Python, LISP, Objective-C, D, OpenCV, OpenCL, OpenGL, DirectX, OpenAL, 他にも沢山。
+## 興味があるもの
+
+- ハードウェアおよびソフトウェア。プログラミング言語関係全般。3DCGなど。CPUやGPUのアーキテクチャ, アセンブリ, Ruby, Python, LISP, Objective-C, D, OpenCV, OpenCL, OpenGL, DirectX, OpenAL, 他にも色々。
 
 ## 登壇歴
 
@@ -54,6 +53,10 @@
 
 職務: 日本国内で言うところのシステムエンジニア。個人的にはプログラマー志望。
 
+#### 2017/January - 
+
+- 日立産業制御ソリューションズ 茨城本社にて主に雑用。また、Windowsのメッセージキュー(MSMQ)による通信プログラムの開発(Visual Studio 2013とC/C++言語、COMを使用)。
+
 #### 2014/March - 2016/December
 
 - 日立オートモティブシステムズ株式会社 佐和工場にて、主に日産車(一部ルノー車)のエンジン制御周りの一端を作業。C言語。
@@ -66,11 +69,11 @@
 
 ### 2006/January - 2009/February : (有限会社レッドワークス - > 株式会社FSB -> 株式会社セイワFSB）
 
-職務: プログラマー
+職務: プログラマー(一応)
 
 #### 2008/August - 2009/February
 
-- 鉄道管理システム。日立製作所の大みか工場にてJR関係。PC端末を駅に見立てて駅間通信関係のプログラムを作業。使用したのはLinux 2.4系とC言語。
+- 鉄道管理システム。日立製作所の大みか工場にてJR関係。PC端末を駅に見立てて駅間通信関係のプログラムを作業。使用したのはLinux kernel 2.4系とC言語。
 
 #### 2008/January - 2008/August
 
