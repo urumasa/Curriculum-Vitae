@@ -20,7 +20,7 @@
 
 ### ポートフォリオ等
 
-- 初音ミクとAR (2006年か2007年夏頃に制作)
+- 初音ミクでAR (2007年夏頃に制作)
   - https://www.youtube.com/watch?v=qfOCDevPpvo&list=PLeiHNLCTwN0_ZEocJ-og22kkYiPYK9umO&index=1
 
 ### その他
@@ -33,7 +33,7 @@
 
 ## 興味があるもの
 
-- ハードウェアおよびソフトウェア。プログラミング言語関係全般。3DCGなど。CPUやGPUのアーキテクチャ, アセンブリ, Ruby, Python, LISP, Objective-C, D, OpenCV, OpenCL, OpenGL, DirectX, OpenAL, 他にも色々。
+- ハードウェアおよびソフトウェア。プログラミング言語関係全般。3DCGなど。CPUやGPUのアーキテクチャ, アセンブリ, Ruby, Python, LISP, Objective-C, D, OpenCV, OpenCL, OpenGL, DirectX, OpenAL, VR, AR, MRなど他にも色々。
 
 ## 登壇歴
 
@@ -49,11 +49,15 @@
 
 ## 職務経歴 (下に行くほど古い)
 
-### 2013/November - Now : 株式会社ラフトレイド・エンジニアリング
+### 2013/November - Now : 株式会社ラフトレイド・エンジニアリング 所属
 
 職務: 日本国内で言うところのシステムエンジニア。個人的にはプログラマー志望。
 
-#### 2017/January - 
+#### 2017/May -
+
+- 日立産業制御ソリューションズ、茨城本社にて欧州の自動車メーカー関係。
+
+#### 2017/January - 2017/April
 
 - 日立産業制御ソリューションズ 茨城本社にて主に雑用。また、Windowsのメッセージキュー(MSMQ)による通信プログラムの開発(Visual Studio 2013とC/C++言語、COMを使用)。
 
@@ -69,7 +73,7 @@
 
 ### 2006/January - 2009/February : (有限会社レッドワークス - > 株式会社FSB -> 株式会社セイワFSB）
 
-職務: プログラマー(一応)
+職務: プログラマー
 
 #### 2008/August - 2009/February
 
