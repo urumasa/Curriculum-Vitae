@@ -5,37 +5,38 @@
 |key|value|
 |---|-----|
 |Name|雲類鷲 智(URUWASHI Masaru)|
+|Facebook|[Masaru URUWASHI](https://www.facebook.com/masaruuruwashi)|
 |Qiita|[urumasa](http://qiita.com/urumasa)|
-|HatenaBlog|[urumasa](http://urumasa.hatenablog.jp)|
+|HatenaBlog|[Morning, Noon & Night](http://urumasa.hatenablog.jp)|
 
 ## スキル・資格
 - IPA 情報セキュリティマネジメント試験 2017年(平成29年)秋期 取得
 
 ### かじったり、触った事がある言語
 
-- C/C++, Object Pascal(現Delphi言語), C#, VB, Java, javascript, Perl
+- C/C++/C#, Object Pascal(現Delphi言語), VB 6.0, VB.NET, Java, javascript, Perl, HTML
 
 - 日本語
   - ネイティブ
 - 英語
-  - 苦手意識は持たないようにしてます。が、読むだけでも大変で手一杯。
+  - 苦手意識はさほど無く、時間かければ読むのはなんとか。
 
 ### ポートフォリオ等
 
-- 初音ミクでAR (2007年夏頃に制作)
+- GLUTを使用したAR初音ミク (2007年夏頃に制作)
   - https://www.youtube.com/watch?v=qfOCDevPpvo&list=PLeiHNLCTwN0_ZEocJ-og22kkYiPYK9umO&index=1
 
 ### その他
 
-- プライベートな時間で個人向けのPCサポート相談等もしてます。主にPCパーツなどのハードウェアと一部のソフトウェアについて。
+- プライベートな時間で知人・友人など個人向けのPCサポート相談等している。主にPCパーツなどのハードウェアと一部のソフトウェアについて。
 
 ## 強み
 
-- 楽をするための努力は惜しまない。
+- 楽をするための努力は惜しみたくない。
 
 ## 興味があるもの
 
-- ハードウェアおよびソフトウェア。プログラミング言語関係全般。3DCGなど。CPUやGPUのアーキテクチャ, アセンブリ, Ruby, Python, LISP, Objective-C, D, OpenCV, OpenCL, OpenGL, DirectX, OpenAL, VR, AR, MRなど他にも色々。
+- ハードウェアおよびソフトウェア。CPUやGPUのアーキテクチャや3DCG, アセンブリ, Ruby, Python, LISP, D, OpenCV, OpenCL, OpenGL, DirectX, OpenALなどほぼメジャーなプログラミング言語およびVR, AR, MRなど他にも色々。
 
 ## 登壇歴
 
@@ -53,19 +54,19 @@
 
 ### 2013/November - Now : 株式会社ラフトレイド・エンジニアリング 所属
 
-職務: 日本国内で言うところのシステムエンジニア。個人的にはプログラマーでありたい。
+職務: あちこちで雑務
 
 #### 2017/October - 2018
 
-- 日立産業制御ソリューションズ、茨城本社にて警察のシステム機能追加および改修。Visual Studio 2015でC++言語(実質はベターC)やMFCなど。
+- 日立産業制御ソリューションズ、茨城本社にて警察の某システム機能追加および改修。Visual Studio 2015でC++言語(実質はベターC)やMFCなど。
 
 #### 2017/May - 2017/September
 
-- 日立産業制御ソリューションズ、茨城本社にて欧州の自動車メーカー関係。C言語とか。
+- 日立産業制御ソリューションズ、茨城本社にてALPINEや欧州の某自動車メーカー関係。C言語とか。
 
 #### 2017/January - 2017/April
 
-- 日立産業制御ソリューションズ 茨城本社にて主に雑用。また、Windowsのメッセージキュー(MSMQ)による通信プログラムの開発(Visual Studio 2013とC/C++言語、COMを使用)。
+- 日立産業制御ソリューションズ 茨城本社にて雑用。また、Windowsのメッセージキュー(MSMQ)による通信プログラムのサンプル開発(Visual Studio 2013とC/C++言語、COMを使用)。
 
 #### 2014/March - 2016/December
 
@@ -77,21 +78,21 @@
 
 ## 現在の会社以前
 
-### 2006/January - 2009/February : (有限会社レッドワークス - > 株式会社FSB -> 株式会社セイワFSB）
+### 2006/January - 2009/February : (有限会社レッドワークス -> 株式会社FSB -> 株式会社セイワFSB）
 
 職務: プログラマー
 
 #### 2008/August - 2009/February
 
-- 鉄道管理システム。日立製作所の大みか工場にてJR関係。PC端末を駅に見立てて駅間通信関係のプログラムを作業。使用したのはLinux kernel 2.4系とC言語。
+- 日立製作所 大みか工場にてJR東の鉄道管理システム。数十台のPC端末を駅に見立てて駅間通信関係のプログラムを作業。Linux kernel 2.4系とC言語。
 
 #### 2008/January - 2008/August
 
-- 電力会社の計量システム開発。関西の方の電力会社で、当時のWindows CE系の端末でBluetoothを使用して電力系と通信し、使用量を取得するプロジェクト。主にBluetoothの通信部分を担当。C/C++言語。
+- 関西電力 電気使用量計量システム開発。当時のWindows CE系の端末でBluetoothを使用して電力計と通信し、使用量を取得するプロジェクト。主にBluetoothの通信部分を担当。.NET Compact FrameworkとC/C++言語。
 
 #### 2007/April - 2007/December
 
-- エレベータ受発注システム。OS変更に伴う問題点の調査やVBAによるツール作成、システム構築など。OS変更はWindowsからLinux系だったか、Linux系からWindowsかは忘れた。Oracle Database 9iとか若干触った。
+- 日立ビルシステム 水戸工場にてエレベータ受発注システム改修。OS変更に伴う問題点の調査やVBAによるツール作成など。OS変更はWindowsからLinux系だったか、Linux系からWindowsかは失念。Oracle Database 9iとか若干触った。
 
 #### 2006/July - 2007/March
 
@@ -99,7 +100,7 @@
 
 #### 2006/Jun
 
-- CANブリッジユニットシステム開発。H8マイコンを使用した油圧制御プログラム開発。RENESASのHigh-performance Embedded Workshop(通称HEW)にてC/C++言語。
+- ホンダ向けCANブリッジユニットシステム開発。H8マイコンを使用した油圧制御プログラム開発。RENESASのHigh-performance Embedded Workshop(通称HEW)にてC言語。
 
 #### 2006/May
 
