@@ -7,7 +7,6 @@
 |Name|雲類鷲 智(URUWASHI Masaru)|
 |Facebook|[Masaru URUWASHI](https://www.facebook.com/masaruuruwashi)|
 |Qiita|[urumasa](http://qiita.com/urumasa)|
-|HatenaBlog|[Morning, Noon & Night](http://urumasa.hatenablog.jp)|
 
 ## スキル・資格 (取得年)
 - 情報技術検定 3級 (2000年)
@@ -34,7 +33,7 @@
 
 ### その他
 
-- プライベートな時間で知人・友人など個人向けのPCサポート相談等している。主にPCパーツなどのハードウェアと一部のソフトウェアについて。
+- プライベートな時間で家族・知人・友人など個人向けのPCサポート相談等している。主にPCパーツなどのハードウェアと一部のソフトウェアについて。
 
 ## 強み
 
@@ -64,13 +63,13 @@
 
 #### 2017/October - 2018
 
-- 日立産業制御ソリューションズ、茨城本社にて警察の某システム機能追加および改修。別システムの書類作成。
+- 日立産業制御ソリューションズ 茨城本社にて警察の某システム機能追加および改修。別システムの書類作成。
  - Visual Studio 2015
  - C++言語 & MFC
 
 #### 2017/May - 2017/September
 
-- 日立産業制御ソリューションズ、茨城本社にてALPINEや欧州の某自動車メーカー関係。
+- 日立産業制御ソリューションズ 茨城本社にてALPINEや欧州の某自動車メーカー関係。
  - C言語
 
 #### 2017/January - 2017/April
@@ -101,6 +100,8 @@
 
 - 日立製作所 大みか工場にてJR東の鉄道管理システム。数十台のPC端末を駅に見立てて駅間通信関係のプログラムを作業。
  - Linux kernel 2.4系
+ - GCC
+ - GDB
  - C言語
 
 #### 2008/January - 2008/August
@@ -115,7 +116,7 @@
 
 - 日立ビルシステム 水戸工場にてエレベータ受発注システム改修。OS変更に伴う問題点の調査やVBAによるツール作成など。OS変更はWindowsからLinux系だったか、Linux系からWindowsかは失念。Oracle9iとか若干触った。
  - Oracle9i Database
- - VBA
+ - Excel VBA
 
 #### 2006/July - 2007/March
 
