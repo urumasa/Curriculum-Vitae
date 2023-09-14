@@ -61,35 +61,60 @@
 
 職務: あちこちで雑務
 
+#### 2023/Aug -
+<!-- テクノエーピー -->
+- 放射線線量計の管理および線量計から線量情報取得処理を行うWindowsアプリの開発。
+ - Visual Studio 2022
+ - C#と.NET Framework
+
 #### 2023/March - 2023/July
 
 - <!-- NTT-ATC水戸 -->Visual Basic 6.0時代アプリの改修および、C#と.NETによる研究試作中のシステムの一部に暗号化・復号化の機能追加。
  - Visual Basic 6.0 SP5
  - Visual Studio 2022 (C#と.NET)
 
-#### 2022/Dec - 2023/Jan
+#### 2022/Nov - 2023/Jan
 <!-- HiICS -->
 - Webシステムの改修
- - PHP、javascript
+ - PHP 7.2.10、javascript、Oracle 19c
 
-#### 2021/November - 2022/Apr
+#### 2021/Oct - 2022/Jul
 <!-- テクノエーピー -->
-- 放射線線量計の管理および線量計から線量情報取得処理を行うWindowsアプリの開発。
+- 放射線線量計の管理および線量計から線量情報取得処理を行うWindowsアプリの試作版開発。
  - Visual Studio 2019
  - C#と.NET Framework
  - TCP/IPとSerial Port通信
 
 #### 2021/Apr -
 <!-- ツールプラネット -->
-- 自動車の故障診断機とbluetooth通信を行うスマホ向けアプリの開発。主に通信と基礎部分。
+- 自動車の故障診断機とbluetooth通信を行うスマホ向けアプリ(AndroidとiOS)の開発。主に通信と基礎部分。
  - Visual Studio 2019で開発開始。のちに2022へ。
  - Xamarin
 
-#### 2020/Sep -
+#### 2020/Aug -
 <!-- ツールプラネット -->
 - 自動車の故障診断機とbluetooth通信を行うWindowsアプリの開発。主に通信と基礎部分。
  - Visual Studio 2019
  - C#と.NET Framework
+
+#### 2020/Apr - 2020/Jun
+<!-- 日立ドキュメントソリューションズ -->
+- 既存出力システムの更新
+ - Visual Studio 2015(Visual Basic.NET)
+
+#### 2020/Jan - 2020/Mar
+<!-- 日立GLS -->
+- 既存ツールのh具合調査、修正。新規ツールの開発したり、雑用など
+ - Visual Studio
+ - C#と.NET Framework
+
+#### 2018/Apr - 2019/Dec
+<!-- 日立超LSI -->
+- ツール開発、試作アプリ開発
+ - Visual Studio
+ - C#
+- 組み込みアプリ開発。振動センサーにてベッドで寝ている患者の寝返りを検出するプログラムの開発。
+ - マイコン、C言語
 
 #### 2017/October - 2018
 
