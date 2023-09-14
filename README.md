@@ -19,7 +19,7 @@
 
 ### かじったり、触った事がある言語
 
-- C/C++/C#, Object Pascal(現Delphi言語), VB6.0, VB.NET, Java, javascript, Perl, HTML
+- C/C++/C#, Object Pascal(現Delphi言語), VB6.0, VB.NET, JAVA, javascript, Perl, HTML, PHP
 
 - 日本語
   - ネイティブ
