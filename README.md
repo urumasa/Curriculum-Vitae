@@ -61,6 +61,36 @@
 
 職務: あちこちで雑務
 
+#### 2023/March - 2023/July
+
+- <!-- NTT-ATC水戸 -->Visual Basic 6.0時代アプリの改修および、C#と.NETによる研究試作中のシステムの一部に暗号化・復号化の機能追加。
+ - Visual Basic 6.0 SP5
+ - Visual Studio 2022 (C#と.NET)
+
+#### 2022/Dec - 2023/Jan
+<!-- HiICS -->
+- Webシステムの改修
+ - PHP、javascript
+
+#### 2021/November - 2022/Apr
+<!-- テクノエーピー -->
+- 放射線線量計の管理および線量計から線量情報取得処理を行うWindowsアプリの開発。
+ - Visual Studio 2019
+ - C#と.NET Framework
+ - TCP/IPとSerial Port通信
+
+#### 2021/Apr -
+<!-- ツールプラネット -->
+- 自動車の故障診断機とbluetooth通信を行うスマホ向けアプリの開発。主に通信と基礎部分。
+ - Visual Studio 2019で開発開始。のちに2022へ。
+ - Xamarin
+
+#### 2020/Sep -
+<!-- ツールプラネット -->
+- 自動車の故障診断機とbluetooth通信を行うWindowsアプリの開発。主に通信と基礎部分。
+ - Visual Studio 2019
+ - C#と.NET Framework
+
 #### 2017/October - 2018
 
 - <!--日立産業制御ソリューションズ-->某H系の会社 茨城本社にて警察の某システム機能追加および改修。別システムの書類作成。
