@@ -57,13 +57,13 @@
 #### 2025/Dec -
 <!-- 日立パワー -->
 - 医療関係向けiOSアプリ開発
-|- iOS、Swift
+ - iOS、Swift
 
 #### 2025/Jun - 2025/Nov
 <!-- 日立ドキュメント -->
 <!-- 島根原発3号機関連-->
 - Webサイト改修
-|- ASP.NET、javascript、CSS、Oracle DB
+ - ASP.NET、javascript、CSS、Oracle DB
 
 #### 2025/Apr - 2025/May
 - 社命によりAWS資格取得勉強
@@ -71,16 +71,16 @@
 #### 2024/Oct - 2025/Mar
 <!-- 日立パワー -->
 - 医療関係向けiOSアプリ開発
-|- iOS、Swift
+ - iOS、Swift
 
 #### 2024/Sep
 - 社内研究にてWindowsからWSLを使用してAndroid OSのビルド方法について調査および実施
-｜- WSL、Android OS
+ - WSL、Android OS
 
 #### 2024/Mar - 2024/June
 <!-- 佐和工場アステモ -->
 - NVIDIAのハードウェアJetsonについてカメラ機能の調査 C++によるカメラ録画処理のサンプルコードをテスト用に改修
-| - Linux、GCC、C++、Docker
+ - Linux、GCC、C++、Docker
 
 #### 2023/Aug - 2024/July
 <!-- テクノエーピー -->
