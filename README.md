@@ -18,7 +18,6 @@
 - IPA 情報セキュリティマネジメント試験 (2017年 秋期)
 
 ### かじったり、触った事がある言語
-
 - C/C++/C#, Object Pascal(現Delphi言語), VB6.0, VB.NET, JAVA, javascript, Perl, HTML, PHP
 
 - 日本語
@@ -27,21 +26,17 @@
   - 苦手意識はさほど無く、時間かければ読むのはなんとか。
 
 ### ポートフォリオ等
-
 - GLUTを使用したAR初音ミク (2007年夏頃に制作)
   - https://www.youtube.com/watch?v=qfOCDevPpvo&list=PLeiHNLCTwN0_ZEocJ-og22kkYiPYK9umO&index=1
 
 ### その他
-
 - プライベートな時間で家族・知人・友人など個人向けのPCサポート相談等している。主にPCパーツなどのハードウェアと一部のソフトウェアについて。
 
 ## 強み
-
 - 楽をするための努力は惜しみたくない。
 
 ## 興味があるもの
-
-- ハードウェアおよびソフトウェア。CPUやGPUのアーキテクチャや3DCG, アセンブリ, Ruby, Python, LISP, D, OpenCV, OpenCL, OpenGL, DirectX, OpenALなどほぼメジャーなプログラミング言語およびVR, AR, MRなど他にも色々。
+- ハードウェアおよびソフトウェア。CPUやGPUのアーキテクチャや3DCG、 アセンブリ、 OpenCL、 OpenGL、 DirectXなど、ほぼメジャーなプログラミング言語およびVR, AR, MRなど他にも色々。
 
 ## 登壇歴
 
@@ -52,7 +47,6 @@
 ### 商業
 
 ### 同人
-
 - 2010/August コミケ78にサークル参加(初)。内容はiMac(Late 2006) 20インチモデルのHDD換装や、PlayStation 3のHDD換装方法などの解説レポート。
 
 ## 職務経歴 (下に行くほど古い)
@@ -60,16 +54,43 @@
 ### 2013/November - Now : 株式会社ラフトレイド・エンジニアリング 所属
 
 職務: あちこちで雑務
+#### 2025/Dec -
+<!-- 日立パワー -->
+- 医療関係向けiOSアプリ開発
+|- iOS、Swift
 
-#### 2023/Aug -
+#### 2025/Jun - 2025/Nov
+<!-- 日立ドキュメント -->
+<!-- 島根原発3号機関連-->
+- Webサイト改修
+|- ASP.NET、javascript、CSS、Oracle DB
+
+#### 2025/Apr - 2025/May
+- 社命によりAWS資格取得勉強
+
+#### 2024/Oct - 2025/Mar
+<!-- 日立パワー -->
+- 医療関係向けiOSアプリ開発
+|- iOS、Swift
+
+#### 2024/Sep
+- 社内研究にてWindowsからWSLを使用してAndroid OSのビルド方法について調査および実施
+｜- WSL、Android OS
+
+#### 2024/Mar - 2024/June
+<!-- 佐和工場アステモ -->
+- NVIDIAのハードウェアJetsonについてカメラ機能の調査 C++によるカメラ録画処理のサンプルコードをテスト用に改修
+| - Linux、GCC、C++、Docker
+
+#### 2023/Aug - 2024/July
 <!-- テクノエーピー -->
 - 放射線線量計の管理および線量計から線量情報取得処理を行うWindowsアプリの開発。
  - Visual Studio 2022
  - C#と.NET Framework
 
 #### 2023/March - 2023/July
-
-- <!-- NTT-ATC水戸 -->Visual Basic 6.0時代アプリの改修および、C#と.NETによる研究試作中のシステムの一部に暗号化・復号化の機能追加。
+<!-- NTT-ATC水戸 -->
+- Visual Basic 6.0時代アプリの改修および、C#と.NETによる研究試作中のシステムの一部に暗号化・復号化の機能追加。
  - Visual Basic 6.0 SP5
  - Visual Studio 2022 (C#と.NET)
 
@@ -87,13 +108,13 @@
 
 #### 2021/Apr -
 <!-- ツールプラネット -->
-- 自動車の故障診断機とbluetooth通信を行うスマホ向けアプリ(AndroidとiOS)の開発。主に通信と基礎部分。
+- 自動車の故障診断機とbluetooth通信を行うスマホ向けアプリ(AndroidとiOS)の開発。主に通信と基礎部分の設計や実装などテックリード担当。
  - Visual Studio 2019で開発開始。のちに2022へ。
  - Xamarin
 
 #### 2020/Aug -
 <!-- ツールプラネット -->
-- 自動車の故障診断機とbluetooth通信を行うWindowsアプリの開発。主に通信と基礎部分。
+- 自動車の故障診断機とbluetooth通信を行うWindowsアプリの開発。主に開発言語の選定及び、通信部分と基礎部分の設計や実装などテックリード担当。
  - Visual Studio 2019
  - C#と.NET Framework
 
@@ -117,7 +138,6 @@
  - マイコン、C言語
 
 #### 2017/October - 2018
-
 - <!--日立産業制御ソリューションズ-->某H系の会社 茨城本社にて警察の某システム機能追加および改修。別システムの書類作成。
  - Visual Studio 2015
  - C++言語 & MFC
